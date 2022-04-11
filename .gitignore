@@ -1,0 +1,12 @@
+# smart contract
+artifacts
+cache
+
+# webpack
+dist
+
+# npm
+node_modules
+
+# ide
+.idea
